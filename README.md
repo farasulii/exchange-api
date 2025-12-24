@@ -20,9 +20,9 @@
 
 #### Formats:
 
-`date`
+`date`#
 
-The date should either be `latest` or in `YYYY-MM-DD` format <br>
+The date should either be `latest` or in `YYYY-MM-DD` format <br>51790730542
 
 The Endpoints Supports HTTP GET Method and returns the data in two formats:
 
