@@ -66,5 +66,5 @@ https://2024-03-06.currency-api.pages.dev/v1/currencies/eur.json
 **Warning:** Please include [Fallback mechanism](https://github.com/fawazahmed0/exchange-api/issues/90#issue-2168885277) in your code, for example if `cdn.jsdelivr.net` link fails, fetch from `currency-api.pages.dev`
 
 **Migrating from Previous Currency API:** [Read this](https://github.com/fawazahmed0/exchange-api/blob/main/MIGRATION.md)
-
+https://github.com/issues?q=sort%3Aupdated-desc+is%3Aissue+is%3Aopen+author%3A%40me+archived%3Afalse
 
